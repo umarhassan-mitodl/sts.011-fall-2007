@@ -38,6 +38,7 @@
     "website": "sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007"
   },
   "course_title": "American Science: Ethical Conflicts and Political Choices",
+  "hide_download": true,
   "course_description": "We will explore the changing political choices and ethical dilemmas of American scientists from the atomic scientists of World War II to biologists in the present wrestling with the questions raised by cloning and other biotechnologies. As well as asking how we would behave if confronted with the same choices, we will try to understand the choices scientists have made by seeing them in their historical and political contexts. Some of the topics covered include: the original development of nuclear weapons and the bombing of Hiroshima and Nagasaki; the effects of the Cold War on American science; the space shuttle disasters; debates on the use of nuclear power, wind power, and biofuels; abuse of human subjects in psychological and other experiments; deliberations on genetically modified food, the human genome project, human cloning, embryonic stem cell research; and the ethics of archaeological science in light of controversies over museum collections.\n",
   "department_numbers": [
     "STS"
@@ -48,6 +49,7 @@
     "content": "6e8f90fc-298e-a6c1-e7ed-b60cb401be0e",
     "website": "sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Other Video",
     "Lecture Notes",

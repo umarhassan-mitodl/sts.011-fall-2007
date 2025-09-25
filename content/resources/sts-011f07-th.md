@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6e8f90fc298ea6c1e7edb60cb401be0e_sts-011f07-th.jpg
 file_size: 5831
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'The science and politics of climate change are among the topics covered
     in this class. This image shows the diminishing extent of Arctic sea ice coverage

@@ -5,6 +5,8 @@ description: Lecture presentation on science, military research, and the nationa
 file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/0994e77c74d01ebcc57f8fd8ee68e971_lec4_kaiser.pdf
 file_size: 886211
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
