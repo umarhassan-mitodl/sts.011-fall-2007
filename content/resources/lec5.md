@@ -4,6 +4,8 @@ description: Lecture presentation on military influence on American science.
 file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/7af72da558197caef0b6c58e3bae429e_lec5.pdf
 file_size: 3486452
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

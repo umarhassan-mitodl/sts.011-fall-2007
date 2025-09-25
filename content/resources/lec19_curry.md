@@ -5,6 +5,8 @@ description: Lecture presentation on climate change research courtesy of Dr. Wil
 file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/cef3bdd4694be36830c4f7e808fc2cfa_lec19_curry.pdf
 file_size: 1081357
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

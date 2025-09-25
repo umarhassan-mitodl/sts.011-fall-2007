@@ -5,6 +5,8 @@ description: Lecture presentation on engineering ethics and the Challenger accid
 file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6026004a0f1ce460257c7ad89bea3506_lec8_hoffman.pdf
 file_size: 2120281
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

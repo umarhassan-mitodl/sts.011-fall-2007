@@ -5,6 +5,8 @@ description: Lecture presentation on alternatives to fossil fuels courtesy of Ca
 file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/95e4318d527cb35f2d62cf8c52c21556_lec20_capewind.pdf
 file_size: 3425561
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
