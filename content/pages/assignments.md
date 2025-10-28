@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the three essay assignments of the
   course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,9 +29,9 @@ First citation from source:
 *   Cowan, Ruth Schwartz. _A Social History of Technology_. New York, NY: Oxford University Press, 1997, p. 253.
 *   Subsequent citations from same source: Cowan, p. 254.
 
-Be certain to correctly credit your sources. A guide from MIT Libraries is available [here](http://libguides.mit.edu/citing).
+Be certain to correctly credit your sources. A guide from MIT Libraries is available {{% resource_link "679876c2-edf8-4ccb-921c-21c6dc678ab9" "here" %}}.
 
-[Plagiarism](http://web.mit.edu/writing/Citation/plagiarism.html) is unacceptable, so please review its definition and procedures for avoiding it.
+{{% resource_link "99bf5003-2ffa-44e6-ab4a-bca6f0e56f0a" "Plagiarism" %}} is unacceptable, so please review its definition and procedures for avoiding it.
 
 Essay 1
 -------
