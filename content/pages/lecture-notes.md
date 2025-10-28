@@ -26,7 +26,7 @@ Dr. Brendan Foley
 {{< tdclose >}}{{< tdopen >}}
 Science, military research, and the national security state ({{% resource_link "0994e77c-74d0-1ebc-c57f-8fd8ee68e971" "PDF" %}}) (Courtesy of Prof. David Kaiser. Used with permission.)
 {{< tdclose >}}{{< tdopen >}}
-Guest: [Prof. David Kaiser](http://web.mit.edu/dikaiser/www/)
+Guest: {{% resource_link "cc3f2292-3523-4ae2-896b-4fe0080f46f4" "Prof. David Kaiser" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -38,17 +38,17 @@ Dr. Brendan Foley
 {{< tdclose >}}{{< tdopen >}}
 Space program: Challenger and Columbia ({{% resource_link "6026004a-0f1c-e460-257c-7ad89bea3506" "PDF - 2.0 MB" %}}) (Courtesy of Prof. Jeffrey Hoffman. Used with permission.)
 {{< tdclose >}}{{< tdopen >}}
-Guest: [Prof. Jeffrey Hoffman](http://en.wikipedia.org/wiki/Jeffrey_A._Hoffman)
+Guest: {{% resource_link "f9a4df3c-61f1-4a91-be12-f3ff56a3022e" "Prof. Jeffrey Hoffman" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
 Climate change research ({{% resource_link "cef3bdd4-694b-e368-30c4-f7e808fc2cfa" "PDF - 1.0 MB" %}}) (Courtesy of Dr. William Curry. Used with permission.)
 {{< tdclose >}}{{< tdopen >}}
-Guest: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry/index.htm), WHOI
+Guest: {{% resource_link "41ab87d7-eb31-49e2-a8d0-684ec94100c1" "Dr. William Curry" %}}, WHOI
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
 Alternatives to fossil fuels ({{% resource_link "95e4318d-527c-b35f-2d62-cf8c52c21556" "PDF - 3.3 MB" %}}) (Courtesy of Cape Wind Associates, LLC. Used with permission.)
 {{< tdclose >}}{{< tdopen >}}
-Guest: Mark Rogers, Communications Director, [Cape Wind](https://www.boem.gov/renewable-energy/studies/cape-wind)
+Guest: Mark Rogers, Communications Director, {{% resource_link "fef27bb7-cefd-44ef-9642-00daaab7d2d4" "Cape Wind" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

@@ -55,9 +55,9 @@ Final exam grade
 
 ## Plagiarism
 
-Finally, a word about plagiarism. The MIT website says this about plagiarism: "Plagiarism is a very serious offense. If it is found that you have plagiarized — deliberately or inadvertently — you may face serious consequences. In some instances, plagiarism has meant that students have had to leave the institutions where they were studying. MIT addresses plagiarism and its consequences in [Policies and Procedures, section 10.](https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/procedures-dealing-student-academic-dishonesty) The best way to avoid plagiarism is to [cite your sources](http://libguides.mit.edu/citing) - both within the body of your paper and in a bibliography of sources you used at the end of your paper."
+Finally, a word about plagiarism. The MIT website says this about plagiarism: "Plagiarism is a very serious offense. If it is found that you have plagiarized — deliberately or inadvertently — you may face serious consequences. In some instances, plagiarism has meant that students have had to leave the institutions where they were studying. MIT addresses plagiarism and its consequences in {{% resource_link "00270a7a-a24d-45c5-9322-c28295324e72" "Policies and Procedures, section 10." %}} The best way to avoid plagiarism is to {{% resource_link "679876c2-edf8-4ccb-921c-21c6dc678ab9" "cite your sources" %}} - both within the body of your paper and in a bibliography of sources you used at the end of your paper."
 
-See "Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students" (July 2007) for an excellent overview of these issues. ([PDF](http://web.mit.edu/academicintegrity/handbook/handbook.pdf))
+See "Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students" (July 2007) for an excellent overview of these issues. ({{% resource_link "4b648cbe-ead8-4511-9fda-50ef677d488e" "PDF" %}})
 
 ## Calendar
 
@@ -93,7 +93,7 @@ Manhattan project
 
 Science, military research, and the national security state
 
-Guest lecturer: [Prof. David Kaiser](http://web.mit.edu/dikaiser/www/)
+Guest lecturer: {{% resource_link "cc3f2292-3523-4ae2-896b-4fe0080f46f4" "Prof. David Kaiser" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -109,7 +109,7 @@ Military influence on American science
 
 Apollo space program
 
-Guest lecturer: [Prof. David Mindell](http://esd.mit.edu/Faculty_Pages/mindell/mindell.htm)
+Guest lecturer: {{% resource_link "8bc6909d-4b00-48da-aa24-c7bc82e3fb58" "Prof. David Mindell" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -127,7 +127,7 @@ Space program: Challenger and Columbia
 
 Space program: Challenger and Columbia (cont.)
 
-Guest lecturer: [Prof. Jeffrey Hoffman](http://en.wikipedia.org/wiki/Jeffrey_A._Hoffman)
+Guest lecturer: {{% resource_link "f9a4df3c-61f1-4a91-be12-f3ff56a3022e" "Prof. Jeffrey Hoffman" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Essay 1 due
@@ -199,7 +199,7 @@ Climate change research
 
 Climate change research (cont.)
 
-Guest lecturer: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry/index.htm), WHOI
+Guest lecturer: {{% resource_link "41ab87d7-eb31-49e2-a8d0-684ec94100c1" "Dr. William Curry" %}}, WHOI
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -209,7 +209,7 @@ Guest lecturer: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry
 
 Alternatives to fossil fuels
 
-Guest lecturer: Mark Rogers, Communications Director, [Cape Wind](https://www.boem.gov/renewable-energy/studies/cape-wind)
+Guest lecturer: Mark Rogers, Communications Director, {{% resource_link "fef27bb7-cefd-44ef-9642-00daaab7d2d4" "Cape Wind" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -227,7 +227,7 @@ Experimentation on human subjects
 
 Experimentation on human subjects (cont.)
 
-Guest lecturer: [Prof. David Jones](http://web.mit.edu/csd/CSD/People.html)
+Guest lecturer: {{% resource_link "f244b312-8eec-4b1d-b081-236c4a580155" "Prof. David Jones" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -237,7 +237,7 @@ Guest lecturer: [Prof. David Jones](http://web.mit.edu/csd/CSD/People.html)
 
 Archaeological science: politics of antiquities trade and collection
 
-Guest lecturers: Katie Getchell and [Christine Kondoleon](http://www.helleniccomserve.com/kondoleon.html), Museum of Fine Arts, Boston
+Guest lecturers: Katie Getchell and {{% resource_link "e5aee09a-36f6-488b-a9d4-142b145f51f1" "Christine Kondoleon" %}}, Museum of Fine Arts, Boston
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -253,7 +253,7 @@ Essay 3 due
 
 Politics in the public presentation of science
 
-Guest lecturer: [Raney Aronson-Rath](http://www.pbs.org/wgbh/pages/frontline/us/aronson.html), Senior Producer, WGBH Boston
+Guest lecturer: {{% resource_link "ff6a95e9-c690-4cd6-9fea-74cd2047a115" "Raney Aronson-Rath" %}}, Senior Producer, WGBH Boston
 
 {{< tdclose >}}{{< tdopen >}}
  
