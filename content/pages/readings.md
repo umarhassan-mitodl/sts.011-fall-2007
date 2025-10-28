@@ -29,9 +29,9 @@ Introduction
 World War II: Hiroshima, Nagasaki
 {{< tdclose >}}{{< tdopen >}}
 
-Documentary segment: [*The Fog of War*](http://www.imdb.com/title/tt0317910/)*.* Directed by Errol Morris, 2004.
+Documentary segment: {{% resource_link "e6d6c467-54ef-45cb-8f5e-32da0565462c" "*The Fog of War*" %}}*.* Directed by Errol Morris, 2004.
 
-Stimson, Henry. "[The Decision to Use the Atomic Bomb](https://muse.jhu.edu/article/435287/summary)." *Harpers Magazine* (February 1947): 97-107.
+Stimson, Henry. "{{% resource_link "a2da042e-7669-473f-b4fe-fb880b0bcdf1" "The Decision to Use the Atomic Bomb" %}}." *Harpers Magazine* (February 1947): 97-107.
 
 Walker, J. S. "The Decision to Use the Bomb." *Diplomatic History* 14 (1990): 97-114.
 
@@ -43,7 +43,7 @@ Hasegawa, Tsuyoshi. *Racing the Enemy: Stalin, Truman and the Surrender of Japan
 Manhattan Project
 {{< tdclose >}}{{< tdopen >}}
 
-Documentary segment: [*The Day After Trinity*](http://www.imdb.com/title/tt0080594/). Directed by Jon Else, 1981.
+Documentary segment: {{% resource_link "fcad25b6-6882-45f7-bf61-8fdb66f9ad95" "*The Day After Trinity*" %}}. Directed by Jon Else, 1981.
 
 Rotblat, Joseph. "Leaving the Bomb Project." *Bulletin of the Atomic Scientists* 41 (August 1985): 16-19.
 
@@ -59,13 +59,13 @@ Bird, Kai, and Martin Sherwin. Preface, "The Impact of the Gadget on Civilizatio
 
 Science, military research, and the national security state
 
-Guest lecturer: [Prof. David Kaiser](http://web.mit.edu/dikaiser/www/)
+Guest lecturer: {{% resource_link "cc3f2292-3523-4ae2-896b-4fe0080f46f4" "Prof. David Kaiser" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
 Weiner, Norbert. "A Scientist Rebels." *Atlantic Monthly* (January 1947): 46.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262541039) Whiteley, John. "The Hanford Nuclear Reservation." *Critical Masses: Citizens, Nuclear Weapons Production, and Environmental Destruction in the United States*. Edited by Russell Dalton et al. Cambridge, MA: MIT Press, 1999. ISBN: 9780262541039.
+{{% resource_link "1678fdfb-d07e-4be8-9d18-bccc51dd3ab3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Whiteley, John. "The Hanford Nuclear Reservation." *Critical Masses: Citizens, Nuclear Weapons Production, and Environmental Destruction in the United States*. Edited by Russell Dalton et al. Cambridge, MA: MIT Press, 1999. ISBN: 9780262541039.
 
 O'Neill, Dan. "Alaska and the Firecracker Boys: The Story of Project Chariot." In *The Atomic West*. Edited by Bruce Hevly and John Findlay. Seattle, WA: University of Washington Press, 1998. ISBN: 9780295977164.
 
@@ -79,13 +79,13 @@ Military influence on American science
 
 Nelkin, Dorothy. *The University and Military Research: Moral Politics at MIT*. Ithaca, NY: Cornell University Press, 1972, pp. 1-13 and 54-65. ISBN: 9780801407116.
 
-Glenn, David. "[Cloak and Classroom](http://chronicle.com/article/CloakClassroom/16948)." *Chronicle of Higher Education* (25 March 2005): 14.
+Glenn, David. "{{% resource_link "fabf224d-b31a-4255-80b0-fba212845186" "Cloak and Classroom" %}}." *Chronicle of Higher Education* (25 March 2005): 14.
 
 Bush, Vannevar. "Science, Democracy, and War," and "Cold War." *Modern Arms and Free Men*. New York, NY: Simon and Schuster, 1949.
 
-Galison, Peter. "[Removing Knowledge](http://www.researchgate.net/publication/38412822_Removing_Knowledge)." *Critical Inquiry* 31 (Autumn 2004).
+Galison, Peter. "{{% resource_link "7a2490ef-107c-4d69-aa7e-351b33e2a135" "Removing Knowledge" %}}." *Critical Inquiry* 31 (Autumn 2004).
 
-[Russell-Einstein Manifesto](http://www.umich.edu/~pugwash/Manifesto.html?wptouch_preview_theme=enabled), 1955.
+{{% resource_link "c0036137-fd01-42a1-a7b9-3a3aefb8b169" "Russell-Einstein Manifesto" %}}, 1955.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -96,7 +96,7 @@ Apollo space program
 Guest lecturer: Prof. David Mindell
 
 {{< tdclose >}}{{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262134972) Mindell, David. "Human and Machine in the Race to the Moon" and "Chauffeurs and Airmen in the Age of Systems." Chapters 1 and 2 in [*Digital Apollo: Human and Machine in Spaceflight*](https://mitpress.mit.edu/9780262134972). Cambridge, MA: MIT Press, 2008. ISBN: 9780262134972.
+{{% resource_link "14ed94ab-d781-41d9-b960-61bb2084868a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mindell, David. "Human and Machine in the Race to the Moon" and "Chauffeurs and Airmen in the Age of Systems." Chapters 1 and 2 in {{% resource_link "14ed94ab-d781-41d9-b960-61bb2084868a" "*Digital Apollo: Human and Machine in Spaceflight*" %}}. Cambridge, MA: MIT Press, 2008. ISBN: 9780262134972.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Risk**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -111,9 +111,9 @@ Whitbeck, Caroline. "Two Models of Professional Behavior: Roger Boisjoly and the
 
 ### Videos
 
-President Ronald Reagan's address to the nation on Space Shuttle Challenger loss ([YouTube](http://www.youtube.com/watch?v=FcSm-KAEFFA&playnext=1&list=PL1A3D758768B526FE), [MP4 - 7.5 MB](https://ocw-studio.odl.mit.edu/ans7870/STS/STS.011/f07/readings/Reagan_Challenger.mp4))
+President Ronald Reagan's address to the nation on Space Shuttle Challenger loss ({{% resource_link "89a8bde4-63e4-4308-b6db-c2c50303a148" "YouTube" %}}, [MP4 - 7.5 MB](/ans7870/STS/STS.011/f07/readings/Reagan_Challenger.mp4))
 
-NASA documentary video on Space Shuttle Challenger accident and investigation ([View and download video](http://www.archive.org/details/ChallengerAccidentandInvestigation) from The Internet Archive.)
+NASA documentary video on Space Shuttle Challenger accident and investigation ({{% resource_link "57fa689b-ab5f-4402-8e6f-12a29bdb4bdf" "View and download video" %}} from The Internet Archive.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -121,7 +121,7 @@ NASA documentary video on Space Shuttle Challenger accident and investigation ([
 
 Space program: Challenger and Columbia (cont.)
 
-Guest lecturer: [Prof. Jeffrey Hoffman](http://en.wikipedia.org/wiki/Jeffrey_A._Hoffman)
+Guest lecturer: {{% resource_link "f9a4df3c-61f1-4a91-be12-f3ff56a3022e" "Prof. Jeffrey Hoffman" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -129,7 +129,7 @@ Langewiesche, William. "Columbia's Last Flight." *The Atlantic Monthly* (Novembe
 
 ### Optional
 
-[NASA STS-107 Investigation reference page](https://www.nasa.gov/mission/sts-107/) - email traffic regarding thermal problems for Columbia and possible scenarios upon re-entry, NASA reports on thermal protection of orbiters, etc.
+{{% resource_link "c4a92353-8c30-4247-a447-77dd66410c29" "NASA STS-107 Investigation reference page" %}} - email traffic regarding thermal problems for Columbia and possible scenarios upon re-entry, NASA reports on thermal protection of orbiters, etc.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -139,9 +139,9 @@ Health and environment
 
 Carson, Rachel. "A Fable for Tomorrow," "The Obligation to Endure," and "The Rumblings of an Avalanche." Chapters 1, 2, and 16 in *Silent Spring*. Boston, MA: Houghton Mifflin, 2000. ISBN: 9780141184944.
 
-Rosenberg, Tina. "[What the World Needs Now is DDT](https://www.nytimes.com/2004/04/11/magazine/what-the-world-needs-now-is-ddt.html)." *New York Times Magazine* (April 11, 2004): 38-43.
+Rosenberg, Tina. "{{% resource_link "db4c1580-12d1-4477-87c2-15f470adf919" "What the World Needs Now is DDT" %}}." *New York Times Magazine* (April 11, 2004): 38-43.
 
-Gladwell, Malcolm. "[Big and Bad](https://www.newyorker.com/magazine/2004/01/12/big-and-bad)." *New Yorker* (January 12, 2004): 28-33.
+Gladwell, Malcolm. "{{% resource_link "ab6100a8-9cbc-4fd2-aaef-aac047dde0e1" "Big and Bad" %}}." *New Yorker* (January 12, 2004): 28-33.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -149,11 +149,11 @@ Gladwell, Malcolm. "[Big and Bad](https://www.newyorker.com/magazine/2004/01/12/
 Health and environment (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-Documentary segment: [*Dangerous Prescription*](http://www.pbs.org/wgbh/pages/frontline/shows/prescription/). PBS Frontline, 2003.
+Documentary segment: {{% resource_link "6d130f82-06c5-425c-b5a1-d7ad8288b8b8" "*Dangerous Prescription*" %}}. PBS Frontline, 2003.
 
 Bach, Fritz, et al. "Uncertainty in Xenotransplantation: Individual Benefit Versus Collective Risk." *Nature Medicine* 4 (1998): 141-144.
 
-Kennedy, Robert F., Jr. "[Deadly Immunity](https://www.rollingstone.com/politics/politics-news/deadly-immunity-180037/)." *Salon* (June 16, 2005).
+Kennedy, Robert F., Jr. "{{% resource_link "9142c8ce-d03a-47ce-8109-d185e57f8071" "Deadly Immunity" %}}." *Salon* (June 16, 2005).
 
 Stehr-Green, Paul, et al. "Autism and Thimerosal-Containing Vaccines." *American Journal of Preventive Medicine* 25 (2003): 101-106.
 
@@ -217,9 +217,9 @@ Kass, Leon. "The Wisdom of Repugnance: Why We Should Ban Human Cloning." In *The
 Biotechnology: market forces
 {{< tdclose >}}{{< tdopen >}}
 
-Press, Eyal, and Jennifer Washburn. "[The Kept University](http://www.theatlantic.com/issues/2000/03/press.htm)." *Atlantic Monthly* (March 3, 2000): 39-54.
+Press, Eyal, and Jennifer Washburn. "{{% resource_link "a6ada616-4cc8-42d0-af63-c93a2a3234ed" "The Kept University" %}}." *Atlantic Monthly* (March 3, 2000): 39-54.
 
-Willman, David. "[The National Institutes of Health: Public Servant or Private Marketer](http://www.latimes.com/news/nationworld/nation/la-na-nih22dec22,0,7519657.story?coll=la-home-headlines)?" *Los Angeles Times* (22 December 2004).
+Willman, David. "{{% resource_link "28540ed2-da54-4428-9808-a82d26cd064a" "The National Institutes of Health: Public Servant or Private Marketer" %}}?" *Los Angeles Times* (22 December 2004).
 
 Brennan, T., et al. "Health Industry Practices that Create Conflicts of Interest." *Journal of the American Medical Association* 295 (2006): 429.
 
@@ -241,7 +241,7 @@ Kass, Leon R. "The Moral Meaning of Genetic Technology." *Commentary* (September
 
 Jeffords, James M., and Tom Daschle. "Viewpoint - Policy Issues: Political Issues in the Genome Era." *Science* 291 (February 16, 2001): 1249 - 1251.
 
-The President's Council on Bioethics. [*Beyond Therapy: Biotechnology and the Pursuit of Happiness*](http://bioethics.georgetown.edu/pcbe/reports/beyondtherapy/). Washington, D.C., October 2003. \[Skim this document - not necessary to close-read it.\]
+The President's Council on Bioethics. {{% resource_link "7c7511f2-e7dd-48a8-b2b3-a944bcc00a82" "*Beyond Therapy: Biotechnology and the Pursuit of Happiness*" %}}. Washington, D.C., October 2003. \[Skim this document - not necessary to close-read it.\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -263,15 +263,15 @@ Silvers, Anita. "Predictive Genetic Testing: Congruence of Disability Insurers' 
 Climate change research
 {{< tdclose >}}{{< tdopen >}}
 
-Film segment: [*An Inconvenient Truth*](http://www.imdb.com/title/tt0497116/). Directed by Davis Guggenheim, 2006.
+Film segment: {{% resource_link "8d4251a1-47e0-4b62-924e-adc722e5e894" "*An Inconvenient Truth*" %}}. Directed by Davis Guggenheim, 2006.
 
 Oreskes, Naomi. "The Scientific Consensus on Climate Change." *Science* 306 (December 3, 2004): 1686.
 
-Lindzen, Richard. "[There is No Consensus on Global Warming](http://www.opinionjournal.com/extra/?id=110008597)." *Wall Street Journal*, no. 26 (June 2006).
+Lindzen, Richard. "{{% resource_link "69d3459b-f6db-41f2-b0f4-1673f48a15af" "There is No Consensus on Global Warming" %}}." *Wall Street Journal*, no. 26 (June 2006).
 
-Oreskes, Naomi. "[Global Warming: Signed, Sealed, And Delivered](http://articles.latimes.com/2006/jul/24/opinion/oe-oreskes24)." *Los Angeles Times*, no. 25 (July 2006). \[Prof. Oresekes replies to Prof. Lindzen.\]
+Oreskes, Naomi. "{{% resource_link "13665aaf-42d2-49d5-9166-c1f2c9016c5f" "Global Warming: Signed, Sealed, And Delivered" %}}." *Los Angeles Times*, no. 25 (July 2006). \[Prof. Oresekes replies to Prof. Lindzen.\]
 
-———. "[The Long Consensus On Climate Change](http://www.washingtonpost.com/wp-dyn/content/article/2007/01/31/AR2007013101808.html)." *Washington Post*, no. 1 (February 2007).
+———. "{{% resource_link "bb5759d1-07ed-46c6-a854-fb8646030442" "The Long Consensus On Climate Change" %}}." *Washington Post*, no. 1 (February 2007).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -279,13 +279,13 @@ Oreskes, Naomi. "[Global Warming: Signed, Sealed, And Delivered](http://articles
 
 Climate change research (cont.)
 
-Guest lecturer: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry/index.htm), WHOI
+Guest lecturer: {{% resource_link "41ab87d7-eb31-49e2-a8d0-684ec94100c1" "Dr. William Curry" %}}, WHOI
 
 {{< tdclose >}}{{< tdopen >}}
 
-Intergovernmental Panel on Climate Change, 2007. "Summary for Policymakers." ([PDF - 3.7 MB](http://web.archive.org/web/20090512153010/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_SPM.pdf))
+Intergovernmental Panel on Climate Change, 2007. "Summary for Policymakers." ({{% resource_link "a7b2e0e3-c38b-46d8-93e7-7eca6b65f641" "PDF - 3.7 MB" %}})
 
-———. "Intergovernmental Panel on Climate Change - Technical Summary." ([PDF - 18.6 MB](http://web.archive.org/web/20090227015341/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_TS.pdf)) \[Look over the table of contents, read the parts that catch your attention.\]
+———. "Intergovernmental Panel on Climate Change - Technical Summary." ({{% resource_link "9a80ce9f-d4bb-4c75-a147-3385037c1f25" "PDF - 18.6 MB" %}}) \[Look over the table of contents, read the parts that catch your attention.\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -293,15 +293,15 @@ Intergovernmental Panel on Climate Change, 2007. "Summary for Policymakers." ([P
 
 Alternatives to fossil fuels
 
-Guest lecturer: Mark Rogers, Communications Director, [Cape Wind](http://www.capewind.org/)
+Guest lecturer: Mark Rogers, Communications Director, {{% resource_link "7be57fe3-1efe-4fae-8015-56585b2bb7b5" "Cape Wind" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-Runge, C. Ford, and Benjamin Senauer. "[How Biofuels Could Starve the Poor](https://www.foreignaffairs.com/articles/2007-05-01/how-biofuels-could-starve-poor)." *Foreign Affairs* 86 (May/June 2007): 41-54.
+Runge, C. Ford, and Benjamin Senauer. "{{% resource_link "d1e4aa03-8006-4804-a1cc-925ee838148b" "How Biofuels Could Starve the Poor" %}}." *Foreign Affairs* 86 (May/June 2007): 41-54.
 
-Natural Resources Defense Council. "Nuclear Facts." (February 2007). ([PDF](http://www.nrdc.org/nuclear/plants/plants.pdf))
+Natural Resources Defense Council. "Nuclear Facts." (February 2007). ({{% resource_link "116064d7-ce76-4468-81d5-1021d9b9b2f2" "PDF" %}})
 
-Wald, Matthew. "[The Best Nuclear Option](https://www.technologyreview.com/2006/07/01/228702/the-best-nuclear-option/)." *Technology Review* (July 1, 2006): 6 pages.
+Wald, Matthew. "{{% resource_link "e60b0303-dded-4917-a6e3-349aa46beae1" "The Best Nuclear Option" %}}." *Technology Review* (July 1, 2006): 6 pages.
 
 U.S. Department of Energy White Paper. "Natural Gas in the New England Region: Implications for Offshore Wind Generation and Fuel Diversity" (2004). ({{% resource_link "b4b73d9e-758b-e4c7-6572-27acc56775e3" "PDF" %}})
 
@@ -309,7 +309,7 @@ Cape Wind. "Comparison of Cape Wind Scientific Data Tower Wind Speed Data with I
 
 Kennedy, Edward. "Statement on the Cape Wind Project." *U.S. Senate* (May 9, 2006): 1-10. ({{% resource_link "05a2e80f-af8f-45a3-2874-e3be99c1e72c" "PDF" %}})
 
-Daschle, Tom, C. Ford Runge, and Benjamin Senauer. "[Food for Fuel](https://www.foreignaffairs.com/articles/united-states/2007-09-01/food-fuel)?" *Foreign Affairs* (September/October 2007).
+Daschle, Tom, C. Ford Runge, and Benjamin Senauer. "{{% resource_link "36f4f728-43bc-4a7c-9099-5610212461aa" "Food for Fuel" %}}?" *Foreign Affairs* (September/October 2007).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **IV. Politics, ethics, and social science**
@@ -323,7 +323,7 @@ Experimentation on human subjects
 
 Slater, Lauren. "Obscura: Stanley Milgram and Obedience to Authority." *In Opening Skinner's Box: Great Psychological Experiments of the Twentieth Century*. New York, NY: Norton, 2005. ISBN: 9780393326550.
 
-Documentary segment: [*Obedience*](http://www.imdb.com/title/tt2872270/). Directed by Stanley Milgram. Penn State University, DVD, 1993. (Original release 1965)
+Documentary segment: {{% resource_link "eac475a6-e4a8-4a1a-adfb-d941323181e4" "*Obedience*" %}}. Directed by Stanley Milgram. Penn State University, DVD, 1993. (Original release 1965)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -331,7 +331,7 @@ Documentary segment: [*Obedience*](http://www.imdb.com/title/tt2872270/). Direct
 
 Experimentation on human subjects (cont.)
 
-Guest lecturer: [Prof. David Jones](http://web.mit.edu/csd/CSD/People.html)
+Guest lecturer: {{% resource_link "f244b312-8eec-4b1d-b081-236c4a580155" "Prof. David Jones" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -343,7 +343,7 @@ Lurie, P., and S. M. Wolfe. "Unethical Trials of Interventions to Reduce Perinat
 
 Correspondence. *New England Journal of Medicine* 338 (1998): 836-844.
 
-[MIT's human subjects training](http://web.mit.edu/committees/couhes/humansubjects.shtml)
+{{% resource_link "d24185c6-38c3-4011-9d6d-415b9d51f670" "MIT's human subjects training" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -351,7 +351,7 @@ Correspondence. *New England Journal of Medicine* 338 (1998): 836-844.
 
 Archaeological science: politics of antiquities trade and collection
 
-Guest lecturers: Katie Getchell and [Christine Kondoleon](http://www.helleniccomserve.com/kondoleon.html), Museum of Fine Arts, Boston
+Guest lecturers: Katie Getchell and {{% resource_link "e5aee09a-36f6-488b-a9d4-142b145f51f1" "Christine Kondoleon" %}}, Museum of Fine Arts, Boston
 
 {{< tdclose >}}{{< tdopen >}}
 Eakin, Hugh. "Review of *The Medici Conspiracy*." *New York Review of Books* 53, no. 9 (May 25, 2006): 1-13.
@@ -363,7 +363,7 @@ Archaeological science: ethical conflicts and political choices in deep water ar
 
 Ballard, R. D., et al. "The Discovery of Ancient History in the Deep Sea Using Advanced Deep Submergence Technology." *Deep-Sea Research I* 47 (2000): 1591-1620. \[1997 deep water project that raised political and ethical issues.\]
 
-Draft Convention on the Protection of Underwater Cultural Heritage. UNESCO, 2001. ([PDF](http://unesdoc.unesco.org/images/0012/001232/123278E.pdf))
+Draft Convention on the Protection of Underwater Cultural Heritage. UNESCO, 2001. ({{% resource_link "dac07ef3-f8a7-4164-b8a2-ccf61d26bacf" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
@@ -371,7 +371,7 @@ Draft Convention on the Protection of Underwater Cultural Heritage. UNESCO, 2001
 
 Politics in the public presentation of science
 
-Guest lecturer: [Raney Aronson-Rath](http://www.pbs.org/wgbh/pages/frontline/us/aronson.html), Senior Producer, WGBH Boston
+Guest lecturer: {{% resource_link "ff6a95e9-c690-4cd6-9fea-74cd2047a115" "Raney Aronson-Rath" %}}, Senior Producer, WGBH Boston
 
 {{< tdclose >}}{{< tdopen >}}
  
